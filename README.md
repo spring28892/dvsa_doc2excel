@@ -17,7 +17,7 @@
 
 # 系統架構圖 — System architecture
 
-![structure]([https://github.com/spring28892/dvsa_doc2excel/blob/main/structure.png?raw=true])
+![structure](https://github.com/spring28892/dvsa_doc2excel/blob/main/structure.png?raw=true)
 
 # 使用者操作手冊 — User Manual
 
