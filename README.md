@@ -21,13 +21,13 @@
 
 # 使用者操作手冊 — User Manual
 
-Step1. 在GitHub下載本專案zip檔並解壓縮。
+Step1. 在GitHub下載[本專案zip檔](https://github.com/spring28892/dvsa_doc2excel/blob/main/input.zip)並解壓縮。
 
 Step2. 在input.docx(可自行更改檔名)中依據預先設計好的表格內容填寫資訊後，並完成存檔。
 
 Step3. 使用merge_template.docx(或是用空白的Word文件，版面配置：邊界窄、方向橫向)，透過MS Word插入-文字檔(或是插入-物件-Microsoft Word Document)功能整併，將複數個案Word檔合併成一個word檔案。
 
-    注意：整併檔案時切勿不小心修改到任何資料，以及加入純文字以外的其他內容及格式，避免轉換至Excel時出現問題。
+    注意：整併檔案時切勿不小心修改到任何資料，以及加入純文字以外的其他內容及格式，避免轉換時出現問題。
 
 Step4. 打開Excel檔，使用左上巨集後，選取合併後的Word檔案，資料便會自動匯入；注意執行前需要啟用巨集，如果出現不信任檔案而被封鎖狀況時，請自行[解除檔案封鎖](https://www.pcmarket.com.hk/microsoft-office-will-block-vba-marcos-by-default/)。
 
@@ -37,7 +37,9 @@ Step5. 如有重複的資料，會在Excel最左邊欄位以顏色標註提醒�
 
 # Demo 影片 — Demo Video
 
+https://github.com/spring28892/dvsa_doc2excel/assets/8509452/af89c57d-f910-4a9b-b2df-b13626faf57d
 
+https://github.com/spring28892/dvsa_doc2excel/assets/8509452/a36be635-cc5a-4215-b0cc-1f7bb3b4b81a
 
 # 客製修改 - Customize 
 
